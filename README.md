@@ -41,6 +41,6 @@ Here’s a look at how the program works:
 ![Invoice Output 1](Output_part_1.png)
 ![Invoice Output 2](Output_part_2.png)
 ![Invoice Output 3](Output_part_3.png)
-![Invoice Output 4](Output_part_4.png)
+![Invoice Output 4](output_part_4.png)
 
 
